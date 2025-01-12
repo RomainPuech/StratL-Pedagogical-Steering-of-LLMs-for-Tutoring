@@ -6,7 +6,7 @@
 
 # To run the demo web app, type the following command in the terminal:
 # `streamlit run app.py`
-# Make sure to paste your openai api key in the file key.txt
+# Make sure to paste your openai api key in the file key_openai.txt
 
 
 # Demo web app
